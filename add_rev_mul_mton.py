@@ -3,9 +3,6 @@
       ii. Now reverse the number X to get Y.
       iii. if we multiply X and Y you should get back Z.'''
       
-
-
-
 def func(x):
     sum=0
     rev=0
